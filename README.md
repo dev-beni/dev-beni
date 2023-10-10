@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=75ae97&height=150&section=header&text=Yeeyn%20Kang&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=75ae97&height=150&section=header&text=Yeeun%20Kang&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
 ## 👋 Hi there
